@@ -303,7 +303,7 @@
       <addr>6560</addr>
       <len>4</len>
       <unit>CO</unit>
-      <description>Solar-Wärmeenergie in KWh</description>
+      <description>Solar-Wärmeenergie in kWh</description>
     </command>
     <command name='getVitoErtragTagSolar' protocmd='getaddr'>
       <addr>CF30</addr>
