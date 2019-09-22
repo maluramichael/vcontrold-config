@@ -1,0 +1,14 @@
+temperature,source=outside,provider=heating current=$1
+temperature,source=warm_water,provider=heating current=$2,desired=$3,output=$4
+temperature,source=reservoir,provider=heating current=$5
+temperature,source=solar_collector,provider=heating current=$6
+temperature,source=boiler,provider=heating current=$7,desired=$8
+runtime,source=burner,provider=heating current=$9
+start_count,source=burner,provider=heating current=$10
+temperature,source=flow_line,provider=heating desired=$11
+temperature,source=return_flow,provider=heating current=$12
+status,source=pump_circulation,provider=heating current=$13
+status,source=pump_heating,provider=heating current=$14
+temperature,source=solar_cell,provider=heating desired=$15
+runtime,source=solar,provider=heating current=$16
+power,source=solar,provider=heating current=$17,today=$18

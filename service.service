@@ -1,0 +1,9 @@
+[Unit]
+Description=vcontrold service
+
+[Service]
+Type=simple
+ExecStart=vcontrold -x /home/pi/heizung/vcontrold.xml -n
+
+[Install]
+WantedBy=multi-user.target
