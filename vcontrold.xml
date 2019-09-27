@@ -169,9 +169,9 @@
     <unit name='Flammenstatus'>
       <abbrev>FLS</abbrev>
       <type>enum</type>
-      <enum bytes='00' text='aus'/>
-      <enum bytes='0B' text='an'/>
-      <enum text='?'/>
+      <enum bytes='00' text='0'/>
+      <enum bytes='0B' text='1'/>
+      <enum text='0'/>
     </unit>
     <unit name='HKP Pumpentyp'>
       <abbrev>HKT</abbrev>
@@ -190,10 +190,10 @@
     <unit name='StatusPumpeIntern'>
       <abbrev>IPS</abbrev>
       <type>enum</type>
-      <enum bytes='00' text='aus'/>
-      <enum bytes='01' text='an'/>
+      <enum bytes='00' text='0'/>
+      <enum bytes='01' text='1'/>
       <enum bytes='02' text='?'/>
-      <enum bytes='03' text='aus'/>
+      <enum bytes='03' text='0'/>
       <enum text='?'/>
     </unit>
     <unit name='Prozent'>
@@ -217,8 +217,8 @@
     <unit name='ReturnStatus'>
       <abbrev>RT</abbrev>
       <type>enum</type>
-      <enum bytes='00' text='aus'/>
-      <enum bytes='01' text='an'/>
+      <enum bytes='00' text='0'/>
+      <enum bytes='01' text='1'/>
       <enum text='?'/>
     </unit>
     <unit name='Sachnummer'>

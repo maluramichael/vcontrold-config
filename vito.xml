@@ -129,6 +129,15 @@
       <description>Außentemperatur in °C</description>
     </command>
 
+    <!-- VERBRAUCH -->
+
+    <command name='getVitoOelVerbrauch' protocmd='getaddr'>
+      <addr>7574</addr>
+      <len>2</len>
+      <unit>COL</unit>
+      <description>Oelverbrauch</description>
+    </command>
+
     <!-- WARMWASSER -->
 
     <command name='getVitoTempWWIst' protocmd='getaddr'>
@@ -261,7 +270,7 @@
       <description>Rücklauftemperatur in °C</description>
     </command>
     <command name='getVitoStatusPumpeHK' protocmd='getaddr'>
-      <addr>2906</addr>
+      <addr>3906</addr>
       <len>1</len>
       <unit>RT</unit>
       <description>Status Heizkreispumpe</description>
@@ -273,7 +282,7 @@
       <description>Heizkreis Raumtemperatur in °C</description>
     </command>
     <command name='getVitoStatusPumpeZirku' protocmd='getaddr'>
-      <addr>6515</addr>
+      <addr>0846</addr>
       <len>1</len>
       <unit>RT</unit>
       <description>Status Zirkulationspumpe</description>

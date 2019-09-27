@@ -1,0 +1,275 @@
+getVitoBetriebsart:
+Heizen und Warmwasser
+
+getVitoBetriebParty:
+aus
+
+getVitoTempPartySoll:
+20.000000 °C
+
+getVitoBetriebFerien:
+inaktiv
+
+getVitoFerienBeginn:
+1970-01-01T00:00:00+0100
+
+getVitoFerienEnde:
+1970-01-01T00:00:00+0100
+
+getVitoBetriebSpar:
+aus
+
+getVitoTempRaumNorSoll:
+21.000000 °C
+
+getVitoTempRaumRedSoll:
+19.000000 °C
+
+getVitoTempAussen:
+13.100000 °C
+
+getVitoOelVerbrauch:
+0.000000 Liter
+
+getVitoTempWWIst:
+53.799999 °C
+
+getVitoTempWWSoll:
+55.000000 °C
+
+getVitoTempSpeicher:
+53.799999 °C
+
+getVitoTempWWAuslauf:
+20.000000 °C
+
+getVitoStatusPumpeSpeicher:
+aus
+
+getVitoTempKesselIst:
+61.500000 °C
+
+getVitoTempKesselSoll:
+47.599998 °C
+
+getVitoStatusFlamme:
+0
+
+getVitoLaufzeitBrenner:
+2869.006104 Stunden
+
+getVitoStartsBrenner:
+18776.000000
+
+getVitoStatusPumpeIntern:
+an
+
+getVitoDrehzahlPumpeIntern:
+0.000000
+
+getVitoKennlinieNeigung:
+1.200000
+
+getVitoKennlinieNiveau:
+3.000000
+
+getVitoBetriebsartHK:
+?
+
+getVitoTempVLSoll:
+0.000000 °C
+
+getVitoTempRLIst:
+37.299999 °C
+
+getVitoStatusPumpeHK:
+an
+
+getVitoTempRaumHK:
+20.000000 °C
+
+getVitoStatusPumpeZirku:
+aus
+
+getVitoTempSolarkol:
+11.400000 °C
+
+getVitoTempSolarspeicher:
+26.100000 °C
+
+getVitoLaufzeitSolar:
+2227.000000
+
+getVitoLeistungSolar:
+9342.000000
+
+getVitoErtragTagSolar:
+0.000000
+
+getVitoStatusUmschaltventil:
+?
+
+getVitoTimerMoHeizen:
+1:An:06:00  Aus:21:30
+2:An:--     Aus:--
+3:An:--     Aus:--
+4:An:--     Aus:--
+
+getVitoTimerDiHeizen:
+1:An:06:00  Aus:21:30
+2:An:--     Aus:--
+3:An:--     Aus:--
+4:An:--     Aus:--
+
+getVitoTimerMiHeizen:
+1:An:06:00  Aus:21:30
+2:An:--     Aus:--
+3:An:--     Aus:--
+4:An:--     Aus:--
+
+getVitoTimerDoHeizen:
+1:An:06:00  Aus:21:30
+2:An:--     Aus:--
+3:An:--     Aus:--
+4:An:--     Aus:--
+
+getVitoTimerFrHeizen:
+1:An:06:00  Aus:21:30
+2:An:--     Aus:--
+3:An:--     Aus:--
+4:An:--     Aus:--
+
+getVitoTimerSaHeizen:
+1:An:06:00  Aus:21:30
+2:An:--     Aus:--
+3:An:--     Aus:--
+4:An:--     Aus:--
+
+getVitoTimerSoHeizen:
+1:An:06:00  Aus:21:30
+2:An:--     Aus:--
+3:An:--     Aus:--
+4:An:--     Aus:--
+
+getVitoTimerMoWW:
+1:An:16:30  Aus:23:50
+2:An:04:30  Aus:14:00
+3:An:--     Aus:--
+4:An:--     Aus:--
+
+getVitoTimerDiWW:
+1:An:16:30  Aus:23:50
+2:An:04:30  Aus:14:00
+3:An:--     Aus:--
+4:An:--     Aus:--
+
+getVitoTimerMiWW:
+1:An:16:30  Aus:23:50
+2:An:04:30  Aus:14:00
+3:An:--     Aus:--
+4:An:--     Aus:--
+
+getVitoTimerDoWW:
+1:An:16:30  Aus:23:50
+2:An:04:30  Aus:14:00
+3:An:--     Aus:--
+4:An:--     Aus:--
+
+getVitoTimerFrWW:
+1:An:16:30  Aus:23:50
+2:An:04:30  Aus:14:00
+3:An:--     Aus:--
+4:An:--     Aus:--
+
+getVitoTimerSaWW:
+1:An:16:30  Aus:23:50
+2:An:04:30  Aus:14:00
+3:An:--     Aus:--
+4:An:--     Aus:--
+
+getVitoTimerSoWW:
+1:An:16:30  Aus:23:50
+2:An:04:30  Aus:14:00
+3:An:--     Aus:--
+4:An:--     Aus:--
+
+getVitoTimerMoPumpeZirku:
+1:An:16:30  Aus:23:50
+2:An:04:30  Aus:14:00
+3:An:--     Aus:--
+4:An:--     Aus:--
+
+getVitoTimerDiPumpeZirku:
+1:An:16:30  Aus:23:50
+2:An:04:30  Aus:14:00
+3:An:--     Aus:--
+4:An:--     Aus:--
+
+getVitoTimerMiPumpeZirku:
+1:An:16:30  Aus:23:50
+2:An:04:30  Aus:14:00
+3:An:--     Aus:--
+4:An:--     Aus:--
+
+getVitoTimerDoPumpeZirku:
+1:An:16:30  Aus:23:50
+2:An:04:30  Aus:14:00
+3:An:--     Aus:--
+4:An:--     Aus:--
+
+getVitoTimerFrPumpeZirku:
+1:An:16:30  Aus:23:50
+2:An:04:30  Aus:14:00
+3:An:--     Aus:--
+4:An:--     Aus:--
+
+getVitoTimerSaPumpeZirku:
+1:An:16:30  Aus:23:50
+2:An:04:30  Aus:14:00
+3:An:--     Aus:--
+4:An:--     Aus:--
+
+getVitoTimerSoPumpeZirku:
+1:An:16:30  Aus:23:50
+2:An:04:30  Aus:14:00
+3:An:--     Aus:--
+4:An:--     Aus:--
+
+getVitoStatusStoerung:
+kein Fehler
+
+getVitoStoerung1:
+2018-11-15T02:54:47+0100 Fehler Gasfeurungsautomat (FD)
+
+getVitoStoerung2:
+2018-04-18T10:47:06+0100 ? (99)
+
+getVitoStoerung3:
+2018-04-18T10:46:06+0100 Solar: Unterbrechung Kollektortemperatursensor (9A)
+
+getVitoStoerung4:
+2018-04-18T10:41:02+0100 ? (99)
+
+getVitoStoerung5:
+2017-12-27T10:30:50+0100 Flammensigal nicht vorhanden (F4)
+
+getVitoStoerung6:
+2017-12-27T10:29:37+0100 Flammensigal nicht vorhanden (F4)
+
+getVitoStoerung7:
+2017-12-24T12:49:55+0100 Flammensigal nicht vorhanden (F4)
+
+getVitoStoerung8:
+2017-12-24T12:48:54+0100 Flammensigal nicht vorhanden (F4)
+
+getVitoStoerung9:
+2017-12-24T11:36:15+0100 Flammensigal nicht vorhanden (F4)
+
+getVitoStoerung10:
+2017-12-24T11:13:01+0100 Flammensigal nicht vorhanden (F4)
+
+getVitoSystemzeit:
+2019-09-23T20:59:35+0100
+
+getVitoAnlagenschema:
+4.000000
